@@ -1,3 +1,3 @@
 # Learning
 
-## Learning JavaScript Folder
+## Learning JavaScript

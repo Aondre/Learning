@@ -13,8 +13,11 @@ color: red;
 }`
 
 p = Selector
+
 color = property
+
 red = property value
+
 color: red = declaration
 
 1. ## Selectors
